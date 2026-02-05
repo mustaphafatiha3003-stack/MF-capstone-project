@@ -57,11 +57,15 @@ Patient churn is primarily driven by experience, engagement, and financial frict
     ├── data
     │   └──patient_churn_dataset.csv
     ├── notebooks
-    │   └── MF_Capstone_project.ipynb
+    │   └── MF_Capstone_project (1).ipynb
     ├── dashboard/
+    │   └── patient_churn_dashboard.pbix
+    ├── report
+    │   └── patient_churn_dashboard.pbix
+    ├── slides presentation
     │   └── patient_churn_dashboard.pbix
     └── README.md
 
 # Author
 Mustapha Fatiha
-Aspiring Data Analyst | Health Educator
+- Aspiring Data Analyst | Health Educator
