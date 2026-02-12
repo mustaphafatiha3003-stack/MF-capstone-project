@@ -60,7 +60,8 @@ Patient churn is primarily driven by experience, engagement, and financial frict
     │   └── MF_Capstone_project (1).ipynb
     ├── dashboard
     │   └── MF Capstone Visualization
-       [[Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mf-capstone-visualization-fcpmjkfywcwa8j6olmvcea.streamlit.app/)
+[[Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mf-capstone-visualization-fcpmjkfywcwa8j6olmvcea.streamlit.app/)
+
     ├── report
     │   └── PATIENT CHURN SUMMARY REPORT (1).pdf
     ├── slides presentation
